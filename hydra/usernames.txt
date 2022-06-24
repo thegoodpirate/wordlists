@@ -1,0 +1,13 @@
+root
+admin
+administrator
+administrador
+sysadmin
+user
+boxuser
+john
+www
+jane
+james
+bill
+jon
